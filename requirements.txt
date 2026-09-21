@@ -1,0 +1,10 @@
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+prophet==1.4.0
+pyarrow==25.0.1
+reportlab==5.0.1
+pymupdf==1.28.2
+requests==2.34.2
