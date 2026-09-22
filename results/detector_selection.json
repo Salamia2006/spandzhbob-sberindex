@@ -1,0 +1,12 @@
+{
+  "method": "cusum",
+  "threshold": 8,
+  "precision": 0.33185840707964603,
+  "recall": 1.0,
+  "F1": 0.49833887043189373,
+  "delay_steps": 5.733333333333333,
+  "false_alarms_per_100_steps": 0.8388888888888889,
+  "tp": 150,
+  "fp": 302,
+  "events": 150
+}
